@@ -18,7 +18,7 @@ Components developed to explain React concepts.
 * How to clone the code
 * Step-by-step bullets
 ```
-git clone https://github.com/EducursosAp/jquery-animaciones.git
+git clone https://github.com/EducursosAp/react-integracion-backend.git
 ```
 
 ## Authors
