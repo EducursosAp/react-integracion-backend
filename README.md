@@ -18,7 +18,7 @@ Components developed to explain React concepts.
 * How to clone the code
 * Step-by-step bullets
 ```
-git clone https://github.com/EducursosAp/html-css-ill-matterello.git
+git clone https://github.com/EducursosAp/jquery-animaciones.git
 ```
 
 ## Authors
